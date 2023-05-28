@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:export-ydpi="73.5"
+   inkscape:export-xdpi="73.5"
+   inkscape:export-filename="../../Users/mohamedabdelbary/Desktop/close-bottom-dialog.html"
+   sodipodi:docname="close-bottom-dialog.svg"
+   id="svg1431"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 24 24"
+   height="64px"
+   width="64px">
+  <metadata
+     id="metadata1437">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1435" />
+  <sodipodi:namedview
+     inkscape:current-layer="SVGRepo_iconCarrier"
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="24.833462"
+     inkscape:cx="32"
+     inkscape:zoom="11.499586"
+     showgrid="false"
+     id="namedview1433"
+     inkscape:window-height="944"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     stroke-width="0"
+     id="SVGRepo_bgCarrier" />
+  <g
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="SVGRepo_tracerCarrier" />
+  <g
+     id="SVGRepo_iconCarrier">
+    <path
+       style="fill:#674f47;fill-opacity:1"
+       id="path1428"
+       fill="#ffffff"
+       d="M19.207 6.207a1 1 0 0 0-1.414-1.414L12 10.586 6.207 4.793a1 1 0 0 0-1.414 1.414L10.586 12l-5.793 5.793a1 1 0 1 0 1.414 1.414L12 13.414l5.793 5.793a1 1 0 0 0 1.414-1.414L13.414 12l5.793-5.793z"
+       clip-rule="evenodd"
+       fill-rule="evenodd" />
+  </g>
+</svg>
